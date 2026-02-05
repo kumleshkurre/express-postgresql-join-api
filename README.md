@@ -5,8 +5,8 @@ This project shows how to fetch combined data from **Employee** and **Staff** ta
 
 ---
 ## 📂 Project Structure
-```
-express-postgresql-join-api
+```js
+Express-postgresql-join-api
 │
 ├── db.js # PostgreSQL connection pool
 ├── joint.js # Express server & JOIN API
